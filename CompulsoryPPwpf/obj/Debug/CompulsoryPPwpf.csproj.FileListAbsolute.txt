@@ -1,0 +1,16 @@
+C:\Users\qozor\Documents\Visual Studio 2022\projects\Parallel\CompulsoryPPwpf\CompulsoryPPwpf\bin\Debug\CompulsoryPPwpf.exe.config
+C:\Users\qozor\Documents\Visual Studio 2022\projects\Parallel\CompulsoryPPwpf\CompulsoryPPwpf\bin\Debug\CompulsoryPPwpf.exe
+C:\Users\qozor\Documents\Visual Studio 2022\projects\Parallel\CompulsoryPPwpf\CompulsoryPPwpf\bin\Debug\CompulsoryPPwpf.pdb
+C:\Users\qozor\Documents\Visual Studio 2022\projects\Parallel\CompulsoryPPwpf\CompulsoryPPwpf\obj\Debug\CompulsoryPPwpf.csproj.AssemblyReference.cache
+C:\Users\qozor\Documents\Visual Studio 2022\projects\Parallel\CompulsoryPPwpf\CompulsoryPPwpf\obj\Debug\CompulsoryPPwpf.csproj.SuggestedBindingRedirects.cache
+C:\Users\qozor\Documents\Visual Studio 2022\projects\Parallel\CompulsoryPPwpf\CompulsoryPPwpf\obj\Debug\MainWindow.g.cs
+C:\Users\qozor\Documents\Visual Studio 2022\projects\Parallel\CompulsoryPPwpf\CompulsoryPPwpf\obj\Debug\App.g.cs
+C:\Users\qozor\Documents\Visual Studio 2022\projects\Parallel\CompulsoryPPwpf\CompulsoryPPwpf\obj\Debug\CompulsoryPPwpf_MarkupCompile.cache
+C:\Users\qozor\Documents\Visual Studio 2022\projects\Parallel\CompulsoryPPwpf\CompulsoryPPwpf\obj\Debug\CompulsoryPPwpf_MarkupCompile.lref
+C:\Users\qozor\Documents\Visual Studio 2022\projects\Parallel\CompulsoryPPwpf\CompulsoryPPwpf\obj\Debug\MainWindow.baml
+C:\Users\qozor\Documents\Visual Studio 2022\projects\Parallel\CompulsoryPPwpf\CompulsoryPPwpf\obj\Debug\CompulsoryPPwpf.g.resources
+C:\Users\qozor\Documents\Visual Studio 2022\projects\Parallel\CompulsoryPPwpf\CompulsoryPPwpf\obj\Debug\CompulsoryPPwpf.Properties.Resources.resources
+C:\Users\qozor\Documents\Visual Studio 2022\projects\Parallel\CompulsoryPPwpf\CompulsoryPPwpf\obj\Debug\CompulsoryPPwpf.csproj.GenerateResource.cache
+C:\Users\qozor\Documents\Visual Studio 2022\projects\Parallel\CompulsoryPPwpf\CompulsoryPPwpf\obj\Debug\CompulsoryPPwpf.csproj.CoreCompileInputs.cache
+C:\Users\qozor\Documents\Visual Studio 2022\projects\Parallel\CompulsoryPPwpf\CompulsoryPPwpf\obj\Debug\CompulsoryPPwpf.exe
+C:\Users\qozor\Documents\Visual Studio 2022\projects\Parallel\CompulsoryPPwpf\CompulsoryPPwpf\obj\Debug\CompulsoryPPwpf.pdb
