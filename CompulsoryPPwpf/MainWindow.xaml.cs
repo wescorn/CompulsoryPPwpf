@@ -24,8 +24,7 @@ namespace CompulsoryPPwpf
     /// </summary>
     public partial class MainWindow : Window
     {
-        ObservableCollection<long> primes; 
-        public event PropertyChangedEventHandler PropertyChanged;
+        //public event PropertyChangedEventHandler PropertyChanged;
         public string timeElapsed { get; set; }
 
         private DispatcherTimer timer;
@@ -39,10 +38,11 @@ namespace CompulsoryPPwpf
             CmbScenario.Items.Add("Parallel");
             CmbScenario.Items.Add("Sequential");
             CmbScenario.SelectedIndex = 0;
-            RangeFrom.Text = "5";
-            RangeTo.Text = "100";
-
+            RangeFrom.Text = "1";
+            RangeTo.Text = "1000000";
+            ElapsedTime.IsReadOnly = true;
             primegen = new PrimeGenerator();
+              
 
         }
 
@@ -64,14 +64,10 @@ namespace CompulsoryPPwpf
             ElapsedTime.Text = timeElapsed;
         }
 
-        private void textBox_TextChanged(object sender, TextChangedEventArgs e)
-        {
-
-        }
 
         private async void BtnStart_Click(object sender, RoutedEventArgs e)
         {
-            Stopwatch stopwatch = new Stopwatch();
+            primeListBox.ItemsSource = null;
             long first;
             long last;
 

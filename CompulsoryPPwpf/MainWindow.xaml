@@ -9,7 +9,7 @@
     <Grid>
         <ListBox x:Name="primeListBox" Margin="41,108,587,17"/>
         <Button x:Name="BtnStart" Content="Start!" HorizontalAlignment="Left" Margin="468,121,0,0" VerticalAlignment="Top" Click="BtnStart_Click"/>
-        <TextBox x:Name="RangeFrom" HorizontalAlignment="Left" Margin="468,90,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" TextChanged="textBox_TextChanged"/>
+        <TextBox x:Name="RangeFrom" HorizontalAlignment="Left" Margin="468,90,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
         <TextBox x:Name="RangeTo" HorizontalAlignment="Left" Margin="612,90,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
         <Label x:Name="LblRangeFrom" Content="Range From:" HorizontalAlignment="Left" Margin="468,64,0,0" VerticalAlignment="Top"/>
         <Label x:Name="LblRangeTo" Content="Range To:" HorizontalAlignment="Left" Margin="612,64,0,0" VerticalAlignment="Top"/>
