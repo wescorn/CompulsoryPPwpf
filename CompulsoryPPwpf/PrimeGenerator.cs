@@ -14,29 +14,40 @@ namespace CompulsoryPPwpf
         public PrimeGenerator()
         {
 
-        }  
-        
+        }
+        private static bool IsPrime(long number)
+
+        {
+
+            if (number < 2) return false;
+
+            if (number == 2 || number == 3) return true;
+
+            if (number % 2 == 0 || number % 3 == 0) return false;
+
+            for (int i = 5; i * i <= number; i += 6)
+
+            {
+
+                if (number % i == 0 || number % (i + 2) == 0)
+
+                    return false;
+
+            }
+
+            return true;
+
+        }
 
         public List<long> GetPrimeNumbersSequential(long first, long last)
         {
-            long num, i, ctr;
+            long num;
             List<long> primes = new List<long>();
 
             for (num = first; num <= last; num++)
             {
-                ctr = 0;
-
-                for (i = 2; i <= num / 2; i++)
-                {
-                    if (num % i == 0)
-                    {
-                        ctr++;
-                        break;
-                    }
-                }
-
-                if (ctr == 0 && num != 1)
-                {
+                
+                if(IsPrime(num)) { 
                     primes.Add(num);
                 }
 
